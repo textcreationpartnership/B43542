@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nunc aut nunquam, peace now or never being a dialogue betwixt Jack and Will, upon the present juncture of affairs.</title>
+         </titleStmt>
+         <extent>Approx. 65KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43542</idno><idno type="EEBO-CITATION">625106332</idno>
+  <idno type="VID">211287</idno>
+  <idno type="EEBO-PROQUEST">2240886042</idno>
+  
+            <idno type="OCLC"> 625106332</idno>
+            <idno type="OCLC">ocn 625106332</idno>
+            <idno type="STC">Wing N1470</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43542)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211287)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2969:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nunc aut nunquam, peace now or never being a dialogue betwixt Jack and Will, upon the present juncture of affairs.</title>
+               </titleStmt>
+               <extent>32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Snowden in Great Carter-Lane, and sold by E. Whitlock, near Stationers-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: faint print with slight loss of text.</note>
+                  <note>Reproduction of original in: Beinecke Rare Book and Manuscript Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Grand Alliance, War of the, 1689-1697 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  James II, 1685-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:211287:1"/>
+            <pb facs="tcp:211287:2"/>
+            <p>
+               <hi>Nunc aut Nunquam,</hi> PEACE <hi>Now or Never;</hi> Being a DIALOGUE Betwixt Jack and Will, Upon the present Juncture of AFFAIRS.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Snowden</hi> in Great <hi>Carter-Lane, and sold by</hi> E. Whitlock, <hi>near</hi> Stationers-Hall. 1697.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:211287:3"/>
+            <pb n="3" facs="tcp:211287:3"/>
+            <head>Nunc aut Nunquam, &amp;c.</head>
+            <sp>
+               <speaker>JAck.</speaker>
+               <p>Sir, your Servant.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>O your most Humble; well! old Lad, how move Matters now? You're a Man of Intrigue, Intelligence, and staunch Judgment; you can Pe<g ref="char:EOLhyphen"/>netrate and Distinguish, prethee be Open and Candid.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Why, Faith so I will; you know I ever was so; for tho' our Sentiments differ in some particulars, yet in this agree, to Cultivate and Improve the Sworn Amity between us, which shall not be violated on my side upon the Score of any <hi>Revolution,</hi> or Change whatever.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Nobly resolv'd, and I concur; but come on, communicate a little.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>All the Tattle has been (you know) for seve<g ref="char:EOLhyphen"/>ral Months past, and is still about Peace, a General One, with respect to <hi>Europe,</hi> that Paradice of the World, our best and most beloved abode.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Well! and what think you of't? I am sen<g ref="char:EOLhyphen"/>sible you can guess shrewdly, for you are the Ears as well as Mouth of a Politick Party (at least so in their own Thoughts;) you pretend to have the best and purest Intelligence, which is a great help to you in your conjectures, which at the beginning of the War fell pretty pat, and hit often very well, but now towards the dawn of a Peace, you all seem to be mightily mistaken in your Notions, which is to be imputed chiefly to your immoderate Zeal for the late King, and plaguy partiality to the French Interest.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>We may be a little too fond of our own Fan<g ref="char:EOLhyphen"/>cies,
+<pb n="4" facs="tcp:211287:4"/>and too warm for the Side we adhere to, but 'tis pardonable in us as well as others, because all par<g ref="char:EOLhyphen"/>ties are apt to exceed in those Points. But a propos. Are you so silly to imagine there will be Peace? at least yet a while!</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Yes, I am, and doubt not at all but we shall have a very good one too, and that speedily, even sooner than you think for.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Say you so truly? alas you are damnably de<g ref="char:EOLhyphen"/>ceiv'd, 'tis not so near as you guess: <hi>Lewis</hi> the Great will trick the Confederates at the long run, and break the Chain of their Alliance at the Treaty which he cou'd not in the Field. One Link, you know, is dropt off, <hi>(viz. Savoy)</hi> which, tho' no strong One, was a heavy hank upon <hi>France;</hi> The <hi>Spaniards</hi> by the Neutrality in <hi>Catalonia,</hi> (which is near concluding) follow next; and the <hi>Dutch</hi> have already (in a man<g ref="char:EOLhyphen"/>ner) agreed to a separate Peace and open Commerce.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Fie upon you <hi>Jack,</hi> that you shou'd be so weak in the Noddle your self to believe this, and so strange<g ref="char:EOLhyphen"/>ly stupid to fancy you can thus impose upon Man<g ref="char:EOLhyphen"/>kind; I know you speak not your own, but the sense of your Party (who God knows have as little of that as honesty) I am asham'd of ye.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Nay, I must tell you further, Sir, the <hi>German-Emperor, Teutonique-Princes</hi> and <hi>States</hi> follow next, and then <hi>England</hi> will be left in the Lurch.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Why, and can'st thou be so damn'd dull to im<g ref="char:EOLhyphen"/>bibe this destructive Doctrine so glibly and greedily? and to pretend to teach others? none but Men of thy own Faith and Folly will listen to thee! Was ever such insipid stuff as this shuffled about! yet these are the <hi>Jacks</hi> Sentiments, and the Common Chat of their private and publik conversation!</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>You say true, it is so; for in reality we believe what we report.</p>
+            </sp>
+            <pb n="5" facs="tcp:211287:4"/>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Nay, and I doubt not wish it so too.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>That may be, you know we are Enemies, ir<g ref="char:EOLhyphen"/>reconcilable to the present Powers.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>More Fools you for your pains, for those pow<g ref="char:EOLhyphen"/>ers, as poor and pitiful as they may be in your E<g ref="char:EOLhyphen"/>steem, will be too hard for you all, both within and without; but good Boy tell me whence proceeds this giddy Infatuation? will no Time nor Experience make you wiser? was it not enough for ye to be Obstinate Blockheads at the beginning of our glorious and hap<g ref="char:EOLhyphen"/>py Establishment, but must ye needs be so for ever?</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Gad we think you so, and worse too! but mum. Well! what would you say if the English Plenipotentiaries (as they are commonly call'd) shou'd not be own'd by the French?</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Faith <hi>Jack</hi> that would be something strange! can you be such an Ass to fancy that our Good and Gracious King <hi>William</hi> would nominate, in jest, those Renown'd <hi>Mercurialists,</hi> and thereby expose his own and the Nations Honour? no, no, be assur'd (old Friend) that point has been agreed, and without doubt some tolerable good understanding established between the Courts of <hi>Kensington</hi> and <hi>Versailles;</hi> thus much I am certain, that's the only way for <hi>Monsieur</hi> to obtain a tolerable Peace, and that's all he must expect; and therefore 'tis his Interest to Court the English and Dutch, who alone can make things easie to him. But to look back a little, what Maggot has crept into your Crown to fancy the Spaniards, Germans, and Dutch, but the last especially, wou'd comply with <hi>France</hi> and exclude us?</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>O! I have some Reasons for it, and very powerful ones too.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>I suppose so; then let us have 'em.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>You know (and so does every body) their
+<pb n="6" facs="tcp:211287:5"/>Commonwealth subsists upon Commerce, and to make way for the re-establishment of that (their life! their soul! their all!) they'll truckle or do any thing, especially being sensible of their own Poverty, and how impossible 'tis for <hi>England</hi> to assist them, or the other <hi>Allies,</hi> that can hardly support her self in this her great Exigency.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Oh! my choice Lad, the <hi>Dutch</hi> are not such Dolts as you make 'em, they warmly debate, but calm<g ref="char:EOLhyphen"/>ly conclude all their Councils to preserve and advance their true Interest; which I am sure is not to drop us if they cou'd; for if our whole United Power has been but just able to reduce <hi>France</hi> to Reason, what wou'd become of the <hi>Netherland,</hi> if old <hi>England</hi> were made a Sacrifice to the Modern <hi>Gauls?</hi> must not all <hi>Europe</hi> soon submit and give up the Cause without any blows? Our Naval Power and Land Force joyn'd to that of <hi>France</hi> wou'd make the whole World trem<g ref="char:EOLhyphen"/>ble; therefore prethee away with those Fopperies, as wild and extravagant as the Fumes of Melancholique-Men, and broach not idle Tales, fitter for the gossip<g ref="char:EOLhyphen"/>ings of weak women than wise Politicians, as you and your gang wou'd be thought to be.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Nay, not so Politick neither, we are men of more modesty than to pretend to much of that at this time of day; I must own (under the Rose tho') that we ha' been plaguly out in our Calculations: faith, to be candid with ye, we are and have been but very in<g ref="char:EOLhyphen"/>different State-Ass-trologers, we like the Star-Gazers, Wizards and Witches, what ever good fortune we pre<g ref="char:EOLhyphen"/>dict to others, never have any our selves, but like them are poor and pitiless.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>'Tis your own Faults in a great measure, for as they would fain penetrate the <hi>Misteria Coeli,</hi> so wou'd you the <hi>Arcana Imperii:</hi> they are restless and
+<pb n="7" facs="tcp:211287:5"/>uneasie to know what's doing above, and you stark mad and raving that you are not admitted to manage matters below: truly we shou'd be well ho'pe up to have you in Government, that <hi>Phaeton</hi> like wou'd if you cou'd set the whole world on fire, ever murmur<g ref="char:EOLhyphen"/>ing and repining at the present, and praising and ad<g ref="char:EOLhyphen"/>miring the past times, which tho' not much better than these in any particular, and in some far worse, yet they were indeed the happier because you were not then plaguing the Publick, as you do now upon all occasions, clogging and impeding our Affairs, aid<g ref="char:EOLhyphen"/>ing and assisting our Enemies as much as you can with intelligence, <hi>&amp;c.</hi> But those days are a'most done.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>How so?</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Why, before the last day of <hi>June</hi> next there will most certainly be a Glorious and General Peace concluded betwixt all Parties engag'd in this nook of the Warring World, and then not a <hi>Jack</hi> to be seen in these three Sister Islands, their number dwindles alrea<g ref="char:EOLhyphen"/>dy, as well as Interest declines, and this some of the sharpest among 'em see plainly, and confess frankly.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Say'st 'a so, but prethee explain thy self a little, for thou art a man of a capacious Soul and clear Head, come impart.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Ay most willingly, <hi>France</hi> has for these three years past been earnestly endeavouring by all ways and means imaginable to get only a bare Negotiation set on foot, in order to a General-Treaty, she has cring'd to and courted the <hi>Dutch</hi> along while only to admit their Agents into their Country; the Methods made use of were so supple and so very humble, that 'twou'd ha' been pity almost to ha' denied their desire; this is Fact.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>And how do you know all this?</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>O I ha' good Intelligence from most parts
+<pb n="8" facs="tcp:211287:6"/>oth' Globe, how matters are manag'd, but especially from the <hi>Hague</hi> where these Affairs were transacted.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Prethee go on.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>to oblige you I will, as also to open the eyes, nay and understandings too of your mistaken mana<g ref="char:EOLhyphen"/>gers; I shall undergo some pains in this business, and to that end I shall be forc'd to retrospect a little, and give a clean and neat deduction of what's past, toge<g ref="char:EOLhyphen"/>ther with the present State of <hi>France</hi> and the <hi>Allies;</hi> which will be the sur'st way to convict and convince your stubborn party.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Do, set every thing in a clear light, be faith<g ref="char:EOLhyphen"/>ful and just; keep as close to Truth as you can, but have a care of her heels, lest if you come too near, she beat out your Brains or your Teeth.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>On my Soul and Conscience I will be sincere: Immediately after the Battle at <hi>Landen, France</hi> began to take in her Sails, not only upon that dear-bought-Victory in which she lost the flower of her Troops and Officers, but upon the unanimous Resolutions of the whole body of the <hi>Allies</hi> to raise more Forces, and to bring better and stronger Armies into the Field the following and succeeding Campaigns, which was done, they finding by Staunch and unerring-experience that numbers only cou'd do the Bus'ness.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>They were much in the right, one wou'd ha' thought they might have seen that before by the con<g ref="char:EOLhyphen"/>stant practice of <hi>France.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>True, but however 'twas not then too late. <hi>France</hi> from that instant began to recoil, she fled be<g ref="char:EOLhyphen"/>hind lines, and trusted trenches rather than open brests. The Confederates gain'd ground the very next Sum<g ref="char:EOLhyphen"/>mer, stopt the progress of their Arms, retook <hi>Huy,</hi> and the next year <hi>Namur</hi> (in view of the whole <hi>Gal<g ref="char:EOLhyphen"/>lick</hi> Power) in the <hi>Netherlands,</hi> and <hi>Cazal</hi> in <hi>Italy,</hi>
+                  <pb n="9" facs="tcp:211287:6"/>the two finest flowers in her Victorious Garland.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>This must be own'd tho' again the grain.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>That struck <hi>Monsleur</hi> to the very heart, and made him lay his hand to it, and seriously consider that nothing but a Peace cou'd preserve him and his mangled Mermidons from speedy and certain ruin. And there<g ref="char:EOLhyphen"/>upon new and more probable Proposals of Peace were presented, but the <hi>Allies</hi> ears being wholly deaf to all Overtures of that kind, that worse than Pagan-Court, hastily resolv'd and hotly pursu'd one project more, (not new but founded upon an old bottom) <hi>viz.</hi> by base and bloudy Assassines to murder the Glorious-Head of the League, and so make way for the curst return of Popery, Foppery, Bigotry and Slavery into the Bowels of <hi>Brit<g ref="char:EOLhyphen"/>tain;</hi> but Heaven! kind and indulgent Heaven! that always presides over Princes Just and Good, (in the true Interests of their Subjects) warded off the Blow, and ex<g ref="char:EOLhyphen"/>pos'd those monstrous and cruel Conspiracies to the scorn and contempt of all the World. <hi>France</hi> thus bauk'd and happily (for us I am sure) disappointed, began to revolve upon her former Proposals of Peace, and finding an uni<g ref="char:EOLhyphen"/>versal detestation and abhorrence of those vile and bloody practices, she thought no way so proper to sooth all up again, but by humbling her haughty Stomach, and offer<g ref="char:EOLhyphen"/>ing more mild and reasonable Terms for an Accomoda<g ref="char:EOLhyphen"/>tion, which indeed was a true step.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Faith so'twas, whatever our hot heads and <hi>Don Furioso's</hi> think and say to the contrary.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>I see <hi>Jack</hi> thou art a Fellow of some Sense as well as good Temper; I am pleas'd at my pains, and shall think it well worth my while, seeing that I am like to make thee a Convert, which will be to thy honour and advantage, seeing as the late Duke of <hi>Buckingham</hi> said, at a debate in the House of Lords, If a man was a Fool yesterday, there's no reason he should be so for ever.</p>
+            </sp>
+            <pb n="10" facs="tcp:211287:7"/>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Before you ha' done with me, 'tis more than probable you may bring me over, and make me a hear<g ref="char:EOLhyphen"/>ty <hi>Williamite,</hi> I am inclin'd to be swayed and influenc'd by a man of your high-Character, and great Considera<g ref="char:EOLhyphen"/>tion, as well, as mighty Interest in that Party.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>I shall be glad if my Arguments will convince you, and my notion of the State of Affairs make you wiser or better before we part.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Pray proceed, I listen very attentively.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>If you did but know what Instruments and Arti<g ref="char:EOLhyphen"/>fices the Court of <hi>France</hi> made use of to encline the Con<g ref="char:EOLhyphen"/>federates to hearken to a Negotiation, you would not be a little surpriz'd, especially when you reflect on the haughty and towring Spirit of that Prince, you cannot but wonder at this unexpected Prostration.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Indeed so I do; for when I consider how nume<g ref="char:EOLhyphen"/>rous his Armies are, not broken or foil'd, but in good heart; Navy pretty well recovered again, Dominions en<g ref="char:EOLhyphen"/>tire and obedient; Provinces unpenetrated by their Ene<g ref="char:EOLhyphen"/>mies Arms, mighty Barriers on his Frontiers every where, Finances full, Publick Credit indifferent good, yet I must indeed confess my self astonisht at the noise I hear on both sides my head of a Peace in view, nay and that <hi>France</hi> sneeks and begs it too; which, faith I can hardly admit into my <hi>Pere Cranium.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>I shall only say this to thee Friend <hi>Jack, Difficile credimus quod nolumus.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>You have reason Sir, but where is the mistery? where is the secret of all this? for to be serious, the <hi>Al<g ref="char:EOLhyphen"/>lies</hi> have had no advantage over <hi>France</hi> by any entire Victories or Routs, the Reduction of 2 important places, and a defeat of part of their Fleet, is all that can be allow'd; surely this has not reduced her to these terrible and truck<g ref="char:EOLhyphen"/>ling terms you speak of.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>No, but the long continuance of the War, and
+<pb n="11" facs="tcp:211287:7"/>the entire loss of their Commerce has made this deep wound, and quite exhausted her.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Well, but the contributions formerly on her Ene<g ref="char:EOLhyphen"/>mies Countries half supported her Armies, and the Prizes taken at Sea in a manner maintain'd her Navy, at least those small Squadrons she has since the fatal blow at <hi>la Hogue</hi> fitted out to interrupt the <hi>Dutch</hi> and <hi>Ʋs</hi> in our Trade, and to destroy our <hi>Colonies</hi> in <hi>America</hi> and <hi>Africa.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>That has helpt them indeed, but yet it has born no proportion to the vastness of their expence; it has mightily impoverisht her Enemies, but not inrich'd her so much as you Fancy. Alas! <hi>France</hi> had not at the begin<g ref="char:EOLhyphen"/>ing of this present War recover'd her self out the Debts the last left her involv'd in; the Sword was drawn too quick, too soon after'twas sheath'd, she had not time to takebreath, for if you remember <hi>France</hi> was always ratling and flut<g ref="char:EOLhyphen"/>ring about with her Armies, marching and counter-march<g ref="char:EOLhyphen"/>ing, attacking and retreating, making War hastily, and suddenly concluding Peace; this last has been a long knocking War, we are now entring the ninth year and the tenth Campaign, (for <hi>Phillipsburgh</hi> was besieg'd in 1688.)</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>This is something to the purpose, but however let's hear the rest.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Ay, you shall. The extraordinary Taxes she has been forc'd to lay on her new Conquests (tho large) as well as native Subjects, wonderfully lessend in number by the late persecution and present War has depressed her beyond recovery, witness the Armies of Edicts that dai<g ref="char:EOLhyphen"/>ly almost fly about, and which fall short in all their calcu<g ref="char:EOLhyphen"/>lations. In a word, she is reduc'd to her last shifts, her extreme and universal Poverty pinches her, and obliges her to truckle, as she must for Peace, which is the thing of the World she most desires and wants.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>But am I bound to believe all this?</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>No, but I should think the Great and Condescen<g ref="char:EOLhyphen"/>ding Steps <hi>France</hi> has made to obtain a Peace, are Argu<g ref="char:EOLhyphen"/>ments
+<pb n="12" facs="tcp:211287:8"/>sufficient to convince you and your whole Par<g ref="char:EOLhyphen"/>ty (if any thing can) that she is in earnest.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>What steps do you mean?</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>First in the large and comprehensive Prelimina<g ref="char:EOLhyphen"/>ries (which contain the body of the Peace) already agreed to; now by the way, Mr. <hi>Jack,</hi> I must tell you, this is a new and brisk way of Treating with <hi>France,</hi> She can't recede from those Points, and the Concessions are so great, if you underst and 'em, especially in the Article that declares all the Reunions shall be disannull'd.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Prethee <hi>Will,</hi> what do they mean by that? I must confess I am not States-man enough to know.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Then I'le explain it: <hi>France</hi> has for these thirty Years past (or thereabouts) been (till lately) gaining on all hands from her Neighbours, sometimes by force of Arms, in an open and declar'd War, at others by base Treachery, in a profound Peace, many of the Places thus taken and stolen, She Re-united, and United to the Crown, and had them solemnly Confirm'd and Ratified by the Parliament of <hi>Paris</hi> and others.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>And must She give these back?</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Ay, She has already consented to that and more.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Why then this Plaguy Peace will strip Her very bare, and take away Her gawdy Foreign Plumes, which made Her look so Fine and Gay.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Yes, every Prince will have his own again, with advantage too, because they are in a better state than when taken from them, being strongly and regularly fortified, and at the expence of their Enemies.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Why Sir, this will be a mighty change!</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Ay, for <hi>France</hi> formerly took all advantages with<g ref="char:EOLhyphen"/>out sparing Her Forces; whenever She had nothing to stand in awe of, She turn'd all opposition topsy turvy, plundr'd, burnt and fill'd all places with Fear and Terror of Her Cruelties, when they refus'd a blind submission
+<pb n="13" facs="tcp:211287:8"/>to her Will and Pleasure, and were not in a Capacity to make resistance. Treaties, Alliances, Promises, Catho<g ref="char:EOLhyphen"/>lick-Princes, Religion, Sovereign-Pontiff, Truces, Peaces, Vows, Oaths, were not accounted Sacred by <hi>France,</hi> when She was never so little dissatisfied, and had the Power in Her Hands; 'twas in vain to make Her most reasonable Propositions; She would quit nothing of her pretensions; She would have all, and if She could not ob<g ref="char:EOLhyphen"/>tain it, She observed no Measures.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>I must confess this is true, but it seems <hi>Tempo<g ref="char:EOLhyphen"/>ra Mutantur!</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Yes, I am sure they are with her.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Well, but how came all this about?</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Be patient and I'le tell ye; <hi>France,</hi> as Politick as She was, and is still thought by your Party, was ex<g ref="char:EOLhyphen"/>treamly out in Her Conduct at the opening of the War.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Pray in what.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>She made mighty Levies, equipt formidable Fleets, and thought, by being early at Sea, and first in the Field, and some Successes (which indeed She wanted not) to break the Guardian Knot of the Alliance form'd against Her, She tore their Frontier Towns away, beat their Armies often, baffled their Navy once, and doubted not but by her prodigious Power to cut (<hi>Alexan<g ref="char:EOLhyphen"/>der</hi> like) the Confederacy in pieces, but Misfortunes and Losses, which always separate, nay, bare down final bands of Men in private Contracts, undertakings or adven<g ref="char:EOLhyphen"/>tures, cemented yet this ligament the more, and made the Union the stronger; nothing could discourage the Allies, who resolv'd to continue the War to the last drop of Blood and Gold. They grew and flourish'd during their seeming Adversiy; <hi>France</hi> droopt and dwindled in her highest posperity, for She had strain'd Her Sinews, and acted beyond her natural Force, wholly of<g ref="char:EOLhyphen"/>fensively; but had She at first been only upon the de<g ref="char:EOLhyphen"/>fensive,
+<pb n="14" facs="tcp:211287:9"/>and made lines to have preserv'd what she had got in the former Wars; She had, for ought I know, by this good Husbandry of Her Treasure and Troops, in time, either dissolv'd the League, or ruined the whole Body in Arms against Her.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Faith you say a great deal, and <hi>ad rem.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Nay, She made a damn'd Blunder in the business of <hi>Ireland,</hi> which was purely a divertive. War, and such a Thorn in the side of <hi>England,</hi> that had <hi>France</hi> prosecu<g ref="char:EOLhyphen"/>ted that business prudently, and supplied the Rebels with Men and Money, they had protracted that Matter, and distress'd the Allies the more in other places.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Where was the defect?</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>The French Councils were divided in Senti<g ref="char:EOLhyphen"/>ments about it, they could then have spared Forces and Coin, but <hi>Monsieur Louvois,</hi> the chief Director of the War, would have had his Son the Marquis <hi>de Barbesieure,</hi> at the Head of all in <hi>Ireland,</hi> which being oppos'd by <hi>Lewis</hi> and <hi>James,</hi> and another sent, <hi>Louvois</hi> grew discon<g ref="char:EOLhyphen"/>tented, neglecting that Affair, and so that Kingdom was soon after reduc'd to the Obedience of its True and Right<g ref="char:EOLhyphen"/>ful Lord King <hi>William.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Well! well! I am satisfied; I am indeed con<g ref="char:EOLhyphen"/>vinced <hi>France</hi> has been out in her Politicks in that and many other things; but don't you think that was a back-blow, a smart stroke in earnest, She gave the League in concluding the separate Peace with <hi>Savoy?</hi> and don't you believe that happy conduct of Hers will make her have better Terms at the General Treaty?</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>No, not all, nor has that hastn'd the Negotiati<g ref="char:EOLhyphen"/>on now on Foot one bit, it was rather an Argument of <hi>Frances</hi> pinching Necessities for a General Peace, which She had then in view; how faithful and punctual was that Court (mark it well, for it was the first time) in per<g ref="char:EOLhyphen"/>forming every jot and tittle of those Articles! what
+<pb n="15" facs="tcp:211287:9"/>hast they made to pay down the Stipulated Sums? what speed was taken in nominating the Officers and establish<g ref="char:EOLhyphen"/>blishing the Family of the Princes of <hi>Piedmont</hi> (now Dutchess of <hi>Burgundy</hi>) and what Pomp and Magnifi<g ref="char:EOLhyphen"/>cence in the Reception of Her, and how was She cares<g ref="char:EOLhyphen"/>sed and complimented at <hi>Lyons</hi> and other Great Towns, told She was the more welcome because she brought a Peace with Her, which the principal Magistrates hop'd would be the foundation of a general One, and so does the Court too! else they would never have condescended to so mean a match.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>'Twas but a bad bargain, I vow to God.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>What! an <hi>Eagle</hi> stoop to a <hi>Sparrow!</hi> no, that's not his Quarry! Could the hopes of the House of <hi>Bourbon</hi> be bestow'd no better? No fairer fortune to be found for him? would the Duke of <hi>Burgundy</hi> have been thus thrown away, think you, but that <hi>France</hi> had some further aim and prospect than that poor contemptible conjunction?</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Was it voluntary or forc'd?</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>That will be worthy our Enquiry; not very frank was <hi>France</hi> to come to it; the high stomach of that Court cou'd not easily digest such crude bits, 'twas so great a diminution of the Glory of that High Flut<g ref="char:EOLhyphen"/>tring Family, that nothing can be like it, there's no parallel.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>What then could produce it?</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Necessity! Dire necessity! of their Affairs; A Peace must be had cost what it will.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>But don't you allow that our ill Posture here at home will be very favourable to <hi>France</hi> in this juncture?</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>What do you mean?</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>The scarcity of Species, the stagnation of Com<g ref="char:EOLhyphen"/>merce, the Universal Cry and complaint of Want, the Loss of publick as well as private Credit, the difficulty of providing for the present, and the impossibility of car<g ref="char:EOLhyphen"/>rying on the War for the next Year, if it should last so long; to say nothing of Insurrections, Tumults, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <pb n="16" facs="tcp:211287:10"/>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>I must confess 'tis a happy hit for <hi>France,</hi> and even beyond her hopes or thoughts, but tho' what you have said be in part true, yet to our great comfort and her unspeakable grief her Condition is much worse than ours, and her necessity for a Peace much more pressing.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>That will be well for us if it be true.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Thanks to our good Government and prudent Parliament, we have almost recovered our selves, that is, we have overcome the main difficulties we laboured under, Coin is become more common, Credit both Wooden and Paper rises, Tallies and Bank Bills advance in reputation, the Publick is chearfully trusted, Exche<g ref="char:EOLhyphen"/>quer Bills in full force and at a <hi>Par</hi> with Money, for we want not wealthy Patriots to subscribe four hundred thousand pounds to circulate those and support their Fame; you see the People are patient, and submit to a misfortune which was inevitable, having behav'd them<g ref="char:EOLhyphen"/>selves with a great deal of Duty of deference, and with very little murmuring or repining, considering circumstances.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Nay, indeed 'tis more than I expected, our whole Party was big with hopes, and so were the two Courts of St. <hi>Germains</hi> and <hi>Versailes</hi> of an universal re<g ref="char:EOLhyphen"/>volt and defection; nay, we were so wise to flatter our selves 'twou'd embroil the Kingdom, and produce very fatal consequences in general.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>But you were mightily mistaken.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>So we were, and you may swear it has not a little troubled us.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Alas! <hi>England</hi> was vastly rich before the War, and tho' we are something exhausted, by sending so much money abroad (which was not to be avoided) to pay our Troops in <hi>Flanders,</hi> and by our careless conduct at Sea, in suffering the <hi>French</hi> Privateers, and Squadrons
+<pb n="17" facs="tcp:211287:10"/>of Men of War to take our Shipping; yet thank God the worst is past, we shall mend and look better, that is, grow richer every day we live.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>That's but fancy. For nothing but Peace can restore you, by that you'll retrieve your Commerce, that extended and well manag'd, will produce a Ballance on your Side, that will bring in Bullion, that make Species; then we shall all have Money enough, and the Nation thrive and flourish amain.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Why, this is good News for the <hi>Jacks</hi> and <hi>Gills</hi> too.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Ay, and <hi>Wills</hi> also! for they are pretty poor at this juncture, but few of either party have any reason to brag of their abundance.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Besides there's above Eight Millions of Pieces of Eight coming from <hi>Cales,</hi> that arriv'd on the last <hi>Spanish Flota,</hi> for the <hi>English</hi> Merchants Account, that will help us mightily, which, with the Plate that in great Quantity lies ready to be brought in as soon as ever the Mints are at leisure to Coin it, will fill us with Specie, and more than make good the loss we sustain'd by the Re-coining our Money.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Say ye so Man!</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Yes, in short, we shall be able to hold out the War longer than the French, and that will oblige them to think the more earnestly of complying with the Allies.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>But can you imagine after all, that His Most Christian Majesty will ever consent to abandon King <hi>James?</hi> so absolutely and entirely as some pretend, when he Swore solemnly (as we have been told) that he would never put up his Sword in his Scabbard till he had re<g ref="char:EOLhyphen"/>stored him to his three Kingdoms?</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Alas! good Lad, that is the least of the Ob<g ref="char:EOLhyphen"/>stacles to a Peace; don't you remember how the Court of <hi>France</hi> packt poor <hi>Charles,</hi> nay, and <hi>Jemmy</hi> too, (the
+<pb n="18" facs="tcp:211287:11"/>same Gentleman you talk of Re-inthroning, who, one would have thought, should not have car'd to have gone thither again) away, when they fled thither for Sanctua<g ref="char:EOLhyphen"/>ry, in the heat of the former times, and this only at the instigation and upon the threats of <hi>Cromwell,</hi> when <hi>France</hi> was in a much better condition than She now is.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>I have heard something of that, there may be truth in't; I think 'twas during the Ministry of <hi>Maza<g ref="char:EOLhyphen"/>rin</hi> (that renown'd Cardinal) then I find <hi>France</hi> will stick at nothing when Her Interest bids Her do it.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Did not you know that before?</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Yes, but was loth to believe or think any thing that's ill of a Friend.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Whip, poor <hi>James</hi> upon the conclusion of a Peace (now not far off) must be gone to <hi>Rome</hi> or <hi>Modena;</hi> the last can't give him Royal Reception and Maintenance, tho' the first can; and that old Cur the <hi>Pope</hi> is a doting Fool, as well as ingrateful Rascal (but all Ecclesiasticks are so when their business is done) that he does not by a Solemn Nunciature invite him to recide at <hi>New Babylon;</hi> He, and the Conclave of Cardinals, out of his and their vast Revenues, allow him a large Stipend of a Million (at least) of Crowns <hi>per Annum,</hi> to support his Dignity, furnishing him a <hi>Palace</hi> at their Expence also; I am sure he deserves this and more from their Hands; he that has done and suffered so much for Mother Church; lose three Crowns for her sake and service (whereas the De'le take me Sir, as an honest <hi>Scot</hi> said, if I'de lose Half a Crown for all the Churches in the World.)</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>You say this is no impediment to a general Treaty:</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>No, not a bit. The <hi>Jack</hi> Interest is no rub; Did you ever know <hi>France</hi> ever value any Interest but Her own?</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Then where lye the main difficulties in the mat<g ref="char:EOLhyphen"/>ter?
+<pb n="19" facs="tcp:211287:11"/>we have been for many Months past amus'd with the hopes of an accommodation, the very Subject of it, is almost thred-bare; 'tis really grown dull and flat, no<g ref="char:EOLhyphen"/>thing but the vast hopes of its being near a conclusion, with the mighty benefits it will produce, cou'd make the daily and almost hourly Chat of it, relish with us, or be at all agreeable to our Ears, because we have talkt so long of it, and see so little likelihood of it coming about.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>People are apt to be earnest and impatient for any great good they desire; but Reason tells us plainly, that a business of that vast import, and wherein so many Great Princes and States are concern'd, and which requires such Skill and Address to manage well (it be<g ref="char:EOLhyphen"/>ing one of the nicest Points in the World, to satisfie so many different pretensions, besides all great Bodies of course, and Naturally move slowly) will take up time to dispatch.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Ay, so it seems, and a great deal too.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>The Emperor continues a little stiff, and would have the Preliminaries enlarged, which the French, if they could, would avoid, but rather than continue the War, they will comply with, and entirely Resign <hi>Lor<g ref="char:EOLhyphen"/>rain</hi> to its Duke, without any reservation or restriction whatever. When the Armies take the Field (which will be about the latter end of <hi>May</hi> 1697. they will quicken the Negotiations.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>That's a good while.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Nay, the Grand Assembly of <hi>Plenipo's</hi> will meet sooner than that, for you may observe, if you please that the way has been smooth'd extreamly by the <hi>French'</hi> Ambassadors, having agreed that all Ceremonies shall be laid aside quite, (which you know us'd to confound a deal of time to no purpose) the Titles of Princes also to be of no consequence, which methinks, is plain English,
+<pb n="20" facs="tcp:211287:12"/>that our Ministers are to be admitted as amply as can be to the General Treaty; so that you may perceive all parties, but especially the <hi>Gauls,</hi> are very willing to come to; Alas! they won't contest about Trifles now, nor would <hi>France</hi> make the least scruple of owning King <hi>William</hi> openly, even before the Great Congress; but She is not yet sure of a Peace, and if the Allies should fly off, then would She absolutely lose all Her Interest here amongst you and the Naughty Men of your Party, which is yet of some service to her, tho' it has been of much more formerly.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Well, upon the whole, nothing you have said yet, has been able to persuade me we shall have an Agreement so suddenly as you pretend.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Then I'le add, that beside the Propensity all Parties have for a Peace (which I shou'd think would be Argu<g ref="char:EOLhyphen"/>ment sufficient alone) not to say necessity, tho' 'tis pretty near that, I tell you 'tis almost impossible to miss of a Peace, because the several Interests on both sides engag'd in the War have unanimously agreed upon a <hi>Mediator,</hi> and this I hope you'll allow to be in earnest and solemnly done; now the differences that shall arise at the General Assembly, will not lie in the Power of either Party to dispute long about, but they must of course be referred to the Arbiter, who alone has power to determine them, (to which end he was chose and excepted) now the King of <hi>Sweeden</hi> is no such contemptible Prince to be made a Tool of, or be affronted by the stubborness or unreasonable<g ref="char:EOLhyphen"/>ness of either side, for he has a very considerable Army of his own, made up of Veteran Troops in long and constant pay; if he should declare on either part 'twou'd fall heavy upon the t'other, and bring them to Reason.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>But there's no likelihood of that.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>No, No, I say this only to let you see the migh<g ref="char:EOLhyphen"/>ty probabilities of a sudden Peace; alas! neither the
+<pb n="21" facs="tcp:211287:12"/>high demands of the <hi>Allies,</hi> nor the flat refusals of <hi>France</hi> will be able long to hinder, or in the least break off the pre<g ref="char:EOLhyphen"/>sent Negotiations, because the <hi>Mediator</hi> has it solely in his Power to decide the matter; nor is the question so much now whether there will be a speedy Peace or not? as how to fix it upon such a <hi>Basis,</hi> that it shall not for many years to come be in the Power of <hi>Monsieur</hi> to plague his honest and quiet Neighbours again by beginning a new War, and bringing it into their Territories.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>How can that be done?</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>
+                  <hi>France</hi> by the Rendition of those strong Frontier Towns she is now Mistress of, will so weaken herself and strengthen her Enemies, that she'll ha' but little heart to think yet a great while of new Quarrels, besides if the Peace were this minute concluded, the <hi>Allies</hi> would not disband all their Armies, nor unrig their Navies, but keep up such a Force both by Sea and Land, that would be continual awe upon <hi>Lewis;</hi> besides 'tis time for him to think of quitting this World and preparing for another; a life (towards his latter end) of quiet and repose would be better for him, and more agreable to his advanced Age, and suitable to his many infirmities, than the noise and hurry War necessarily occasions; He is almost worn out with Fatigues of State, late Councils, and the indifa<g ref="char:EOLhyphen"/>tigable applications he has gone through, not to mention Amours and the soft pleasures of Courts.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>As you have tack't them together, that's indeed lighting the Candle at both ends, that will hasten a man home to his Forefather.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>The Circles and Princes of the Empire have already resolv'd to keep on foot even in times of Peace a good Body of Troops, and you may be sure all the rest of the Members of this renown'd and celebrated Uni<g ref="char:EOLhyphen"/>on will do the like; so that <hi>France</hi> will be curbed on all hands; besides it will be many years before she can re<g ref="char:EOLhyphen"/>cover
+<pb n="22" facs="tcp:211287:13"/>her self out of that deep desolation and misery she now is in, the late heavy hand of persecution and the pre<g ref="char:EOLhyphen"/>sent long raging War, have eas'd her of her superfluous Subjects and redundant Wealth which time and Peace can only repair.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Prethee <hi>Will.</hi> no more of this, for I tell you plainly, your Sentiments and our differ extreamly upon the present State and Condition of that Kingdom; and so let's wave all further chat of that matter, and go to the Subject now in hand, <hi>Pax, Pax,</hi> is the word now most in Vogue; because earnestly desired by the greatest part of the weakened Warriours, tho' I can hardly ever be brought to believe that <hi>France</hi> is so very zealous to ob<g ref="char:EOLhyphen"/>tain it as you would fain persuade me.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Well <hi>Jack,</hi> to take yet a little more pains with thee, is it not a good Argument that she would fain have Peace when all the World knows that she first and alone sued and sollicited heartily to come into her Enemies Countrey to treat? Canst thou Fancy that <hi>France</hi> wou'd send her Embassadors to <hi>Holland</hi> to negotiate, if the pos<g ref="char:EOLhyphen"/>ture of her Affairs were so good as you pretend? No, rather the Confederates must cringe, and creep, and send Ministers to <hi>Versailes;</hi> take Arms, be glad of what kind of Agreement that mighty Monarch (as you think him) would vouchsafe to give them. Is not this rational? in short, if this would not do with you nothing can, I will give over all hopes of convincing thy incurable obstinacy; it's time for us to part.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>No, dear <hi>Will,</hi> don't do that, we have not seen one another a great while, besides the Wine is excellent, we have some hours yet on our hands, and you are sensi<g ref="char:EOLhyphen"/>ble I love your conversation beyond all the mens in the World; therefore pray proceed and inform me, that I may our whole Tribe, for faith and troth, with your con<g ref="char:EOLhyphen"/>sent I will have it printed; I can remember ev'ry word of it.</p>
+            </sp>
+            <pb n="23" facs="tcp:211287:13"/>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>No <hi>Jack,</hi> I dare hardly confide in thee, because for the sake of that cursed Cause thou art embarked in, thou't pervert and change my words.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>By the Mass I won't, tho' I am a man of more honor than to do so; however, to end this dispute, pray do you send it to the Press to a man of your own Kidney, on whom you may rely, and let the Publick be obliged with it; I must confess there's more weight and solidity in it, than I am willing to own, because you argue so strongly against an Interest I love most passionately; however, come to the Text.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>By that, I suppose some more Reasons you would have of an Approaching Peace.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Yes, you guest well.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>You shall, I will give ye a short Account of what I my self observ'd at <hi>Paris</hi> (for you must know, I have lately made the Tour of <hi>France,</hi> and am newly return'd) upon the Arrival of the Pass-ports, from the States General of the United <hi>Netherlands;</hi> and the Elector of <hi>Bavaria,</hi> to give leave to the French Plenipo's to pass through, and reside in their Territories; no soon<g ref="char:EOLhyphen"/>er was this most welcome News come to that Metropolis, but there appear'd an Universal and Visible Joy amongst all the People, smiles on their Lips, and Mirth in their Mouths.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>That is usual in all Nations upon such occasions.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>But this was so extravagant and extraordinary, that I could not but admire at it, especially when I reflect<g ref="char:EOLhyphen"/>ed on the ridiculous Lies your Party spread abroad in <hi>England,</hi> of the mighty wealth and puissance of <hi>France,</hi> how vastly they have gain'd by the War, how rich and easie they are, how nimbly and plentifully Money rumbles a<g ref="char:EOLhyphen"/>bout there, how gay and gallant they appear every where, how little they repine at their numberless Taxes, (tho' three of the four Elements pay to the King) and how
+<pb n="24" facs="tcp:211287:14"/>indifferent Peace is or would be to them, and a great deal of such poor preamble as this.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>I can't deny but this is the common Chat of our Clamorous Clans, nay, and I assure you 'tis a sub<g ref="char:EOLhyphen"/>stantial part of our Creed; we, like the thick-skul'd Cavaliers of old, stifly and stubbornly adhere to a Cause that has (as theirs did them) brought us to beggery, we live (Camelions like) upon the Air of hopes, thin Diet God wot, worse than Water-grewel; we promise our selves mighty Matters upon a second Restauration, as they, poor Gentlemen, did upon the First, tho' I am almost of the mind we should not fare much better than they did, if such a Scene should be open'd.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Ay, you may be sure on't; you know the <hi>Stu<g ref="char:EOLhyphen"/>arts</hi> were ever a grateful Family; you may rely upon their promises that never kept any.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>We have all had prodigious Assurances from King <hi>James,</hi> of his never failing Favour to us upon his Re-in<g ref="char:EOLhyphen"/>thronement, and we can hardly forbear believing him.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>You are infatuated; have ye forgot his Brother <hi>Charles</hi>'s Conduct; but prethee do you and your Trusty Tribe set your hearts at rest, you'le never see any day like that, no return for him but in a Coffin; the rattle your Fools make of his coming ere long to <hi>Calis</hi> or <hi>Bo<g ref="char:EOLhyphen"/>longe,</hi> is only to take his <hi>Ʋltimum vale</hi> of old <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> before he go his Pilgrimage to the Lady of <hi>La<g ref="char:EOLhyphen"/>reto.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Why do you think his Re-establishment Impossi<g ref="char:EOLhyphen"/>ble?</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Yes, or next to't.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Ay, Gad, as strange and surprizing things have been brought about in the twinckling of an Eye, by the power of Providence.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Alas! Poor <hi>Jemmy</hi> has no such good Stars to help him to his three Crowns again, one Crown in the
+<pb n="25" facs="tcp:211287:14"/>other World is worth three and twenty in this, here's nothing in this lower Orb but trouble and vexation, and who would value empty Titles and noisey Greatness mixt with so much allay and mortification?</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>What! you prate like a Preacher, and banter the Old Gentlemen. You're mightily mistaken, for he'le have a tug for it yet; the Catholick Princes to whom he Adrest his first <hi>Manifesto,</hi> will surely have com<g ref="char:EOLhyphen"/>passion of his Case, and give him some Relief, in order to restore him to his Dominions.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Yes, without doubt, and so will the Protestant Powers too! thou dolthead, that art such a Fool to fancy that either the Popish or Reform'd Kings or States, will take any notice of that hotch-potch of Inconsisten<g ref="char:EOLhyphen"/>ces; alas! for the first of those Pamphlets, it did indeed make some little noise in the World, (tho' not much) but for the second it died as soon as it was born, and is now buried in oblivion. Can'st thou be such a block <hi>(Jack)</hi> to think that writing will do the business, when sighting could not; a <hi>Paper War</hi> usually makes way for, and pre<g ref="char:EOLhyphen"/>cedes the <hi>Bloody One,</hi> but never succeeds it; it is in vain for the Scriblers to pretend to effect with their Pens, more than the Sons of <hi>Mars</hi> can do with their Swords.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>You say well. But won't our old Master have a <hi>Plenipo.</hi> at <hi>Reswicke,</hi> to take care of his Affairs, to press his pretensions, or at least to enter his protestations?</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>No, I believe not, that will hardly be permit<g ref="char:EOLhyphen"/>ted, for he has no business there, and therefore to what purpose should he send a Minister thither?</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Oh! by all means, to secure his interest.</p>
+            </sp>
+            <sp>
+               <speaker>VVill.</speaker>
+               <p>God knows that's very small at this time, and hardly worth taking any care about, but thou shal<g ref="char:EOLhyphen"/>low-crown, does not thou know that that matter has been already adjusted with <hi>France,</hi> that cunning Court
+<pb n="26" facs="tcp:211287:15"/>was made sensible, no Overtures of Peace could be list<g ref="char:EOLhyphen"/>ned to, except the Late <hi>British Bravo,</hi> and his <hi>Brat,</hi> with all their present as well as future pretensions, were entirely and absolutely abandoned, and this <hi>Monsieur</hi> himself acquainted that unhappy Gentleman with, and at the same time let him know, that the necessity of his own affairs, and the preservation of his people from utter ruine and destruction, were the true Motives that induc'd him to press so earnestly for a speedy Accommodation, and that he had honestly and honorably used his utmost Effects to re-instate him, but that 'twas all in vain; the <hi>Allies</hi> were invincible, and almost inexorable, that their Armies were (and had been for some past Cam<g ref="char:EOLhyphen"/>paigns) superior to his in number, in much better plight, their Heets I orded it on the Main and without controll or opposition, burnt his Maritime Towns; that 'twas im<g ref="char:EOLhyphen"/>possible for him to remount his Cavalry or recruit his Infantry, that not only Horses but Money also was want<g ref="char:EOLhyphen"/>ing; The Troops in great Arrears, his Magazines ill pro<g ref="char:EOLhyphen"/>vided; and in a word, that notwithstanding his great retrenchments and mighty good management, thrist and care, it was absolutely impossible to carry on the War any longer.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>These were melancholy <hi>Memento</hi>'s to an exiled King, these were sowre Sopps to a miserable man, tum<g ref="char:EOLhyphen"/>bled from the top of Honour to the bottom of despair, and all for the sake of a musty Religion, growing every day more and more out of Fashion: then I find by your account of things, we have but small hopes of ever seeing that Spark in this part of the World again, at least alive!</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>No indeed, for the Princes of this Age are too wise and wary to fight so furiously and madly (as former<g ref="char:EOLhyphen"/>ly they were wont) for Dame Church, they take more care of their temporal Estates than in times past, nor are
+<pb n="27" facs="tcp:211287:15"/>they so apt to be intoxicated by the Priesthood, who pretend to be the Embassadors from Heaven and Sons of Peace, yet prove too often the Ministers of Hell, kind<g ref="char:EOLhyphen"/>ling the Fire of War on Earth upon the score of some trifling differences in Ceremonies (not essential in sacred Rites) or because they can't bring the people to be all under one head (infallible forsooth!) which is as easie to be done as to make all the folks of one Phis. Besides, the Layicks have now more Wit, they won't knock one an<g ref="char:EOLhyphen"/>other on the Head to please the Priests.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>By my Soul, I think they are in the right on't. But come my choice Cock, let's pass from this Sally, which will be apt to carry us too far, leading us out oth' way, and let us talk of the Dove with the Olive branch in his Mouth, the pleasing Prospect of Peace, the very sound of that Word is grateful to our Ears; I believe the Men of Metal, those Sons of Steel, are amost weary of the War, and would willingly be at quiet themselves, for if it be a Trade (as it is said) it is quickly taken up, and may be as soon laid down again, the perquits and profits are but small and not encouraging, especially at this time.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>I think so too, well, to the business in hand; be<g ref="char:EOLhyphen"/>sides the Staunch and solid Reasons I have offer'd you upon this Subject, I shall yet add, that the <hi>English</hi> and <hi>Dutch</hi> bearing the greatest burden of the War in maintain<g ref="char:EOLhyphen"/>ing all the Sea, and most of the Land Forces now in Arms, may very well pretend to have the largest share and stroke in making the Peace; Territory they have not lost, and so demand not any, they find <hi>France</hi> inclin'd to end the War by giving up to the Consederates their Provinces, Cities, Towns, and Forts; putting things in <hi>Statu quo:</hi> now 'tis not the Interest of <hi>Europe</hi> to ruine or conquer <hi>France</hi> (if it could be done) to bring her to good Terms by depluming her is, all that has been aim'd at, to this She will yield, though somewhat unwillingly (it must be
+<pb n="28" facs="tcp:211287:16"/>confest I must needs say it would have pleased me better, and all those that love the Common Cause, to have had <hi>France</hi> humbled after another manner, and reduc't to a nearer degree of Ruine.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>How do you mean?</p>
+            </sp>
+            <sp>
+               <speaker>VVill.</speaker>
+               <p>To have had her Forces entirely defeated, and her Territories entered by the Armies of the <hi>Allies;</hi> her Towns plundered, burnt and depopulated, the whole Country about ravaged, nothing but desolation and de<g ref="char:EOLhyphen"/>struction over the Land.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Why you are cruelly enclin'd.</p>
+            </sp>
+            <sp>
+               <speaker>VVill.</speaker>
+               <p>I am so, I talk like a Souldier; besides, it is but as <hi>France</hi> treated <hi>Germany,</hi> and would all the rest of her Neighbours if she could; I assure you <hi>Jack,</hi> it troubles me not a little, when I reflect how well she is like to come off, when after all the mischief she has done in the world, and the miseries she heap'd on others, I am clear<g ref="char:EOLhyphen"/>ly for <hi>Lex Talionis, &amp; nec Lex justior illa, &amp;c.</hi> — 'tis like a man's dying in full strength and vigor, for the Confederates to give over the War, when they had brought things to such a pitch, to exceed <hi>France</hi> in pow<g ref="char:EOLhyphen"/>er; it would have been much more glorious to have forced her by Arms to have sent a <hi>Carte Blanche</hi> and submitted to their Terms: she that has been the cause of so much Christian blood-shed, to gratifie her Ambition only, that introduced into the World, recommended and practised such Tracherous and Villanous Polliticks, employed such Barbarous Assassines, encouraged Murders by poynard, and poyson, corrupted Courts, debauched Mankind mangled Morals, perverted principles, done allt he ill things that were to be thought of or invented, to accomplish her ends, (yet mist them) I say, she that has acted thus inso<g ref="char:EOLhyphen"/>lently, violently and inhumanely, to escape the venge<g ref="char:EOLhyphen"/>ance of Heaven, and avoid the Fate of <hi>Sodom</hi> and <hi>Gomorrah</hi> is strange, I am sure it is pity she is not sacrific'd and serv'd as the old <hi>Romans</hi> did <hi>Carthage,</hi> I say <hi>Delenda est Gallia.</hi>
+               </p>
+            </sp>
+            <pb n="29" facs="tcp:211287:16"/>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>This is a sudden sally of your inordinate Zeal and intemperare Heat, you fly too indeed; to depress the house of <hi>Bourbon</hi> too low, would but give way to the <hi>Austrian</hi> Family to pierk up again; there are but those two topping Cedars capable of contending for the Western Empire, and you see it has been the destiny of neither to carry it; the Princes of Europe are so prudent<g ref="char:EOLhyphen"/>ly politique when either of those houses swell to an excess of Power, they bind and confederate together, to oppose their growing greatness; and since the extinction of the four past mighty Monarchies, <hi>Spain</hi> towards the close of the last Century, and <hi>France</hi> in her turn near the end of the present bid fairest for the Universality, and indeed both were pretty near the Mark.</p>
+            </sp>
+            <sp>
+               <speaker>VVill.</speaker>
+               <p>But Heaven raised against the <hi>Spaniards</hi> a re<g ref="char:EOLhyphen"/>nowned and victorious Heroine in the last Age, our im<g ref="char:EOLhyphen"/>mortal Queen <hi>Elizabeth;</hi> and in this present has advan<g ref="char:EOLhyphen"/>ced to the <hi>English</hi> Throne a Gallant and God-like Prince KING WILLIAM entirely entirely after our own hearts, to stop the progress of the <hi>French</hi> Arms; so that both the pretenders have been hindred from obtaining the ab<g ref="char:EOLhyphen"/>solute Dominion of the fourth part of the Globe; and it seems plainly to me, as if Providence had reserved that Glory for Old <hi>England,</hi> to have always the greatest share of, <hi>viz.</hi> To preserve sweet Liberty, in opposition to sowre Slavery, by falling into the conjunction to be the weigh<g ref="char:EOLhyphen"/>tiest in the War, and by procuring a Peace, to keep the Ballance in her hands alone.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>That has indeed been the honourable Lot of our Nation, and I am so much an <hi>Englishman</hi> to value my self upon't, &amp; to wish it may be always in our Power to do so.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Well so much for that. I hope friend <hi>Jack,</hi> from what has been said, you are sufficiently convinced that in all humane probability we are not far from a good Peace.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Why, truly I must needs confess you have gone
+<pb n="30" facs="tcp:211287:17"/>a great way towards inducing me to believe it does draw near. I do own the Deduction you have given me of Affairs, with the pertinent Reflections you have made thereon, have wonderfully gain'd upon me; you have hit upon happy thoughts, are a good Logician and have from substantial premises drawn apt conclusions. I am indeed induced to think this Bloody, Tedious, and Unnatural War is terminating, which I shall be glad of for the benefit of the Re-publick, nay, and Re-private too. But prethee what shall we get at the winding up of the bottom, in Consideration of the Millions of Mo<g ref="char:EOLhyphen"/>ney, and thousands of Men that have been spent and lost within these few years?</p>
+            </sp>
+            <sp>
+               <speaker>VVill.</speaker>
+               <p>From out of a multitude of Advantages, I shall only enumerate some of the most considerable. In the first place, we have got a very good King for a very bad One; he alone is worth all the charges we have been at to keep him in, and the other out; next we have secured our Religion, Liberties, and Properties, beyond a possibility of being (ever I think) in any danger again from that <hi>Puppet Popery,</hi> and that <hi>Monster Tyranny;</hi> then have we preserv'd our Native Country, and all <hi>Europe</hi> too, from a Forreign Yoke, worse than Egyptian Bon<g ref="char:EOLhyphen"/>dage, which neither we nor our Fore-fathers could en<g ref="char:EOLhyphen"/>dure to hear of, much less to bear; we have taken <hi>Be<g ref="char:EOLhyphen"/>hemoth</hi> by the Beard, and pluckt him down; the <hi>French Leviathan</hi> could not stand before us; how great a glory is it to our Kingdom, and what a large share each Eng<g ref="char:EOLhyphen"/>lish-man participates, that we have been (by God's As<g ref="char:EOLhyphen"/>sistance) the principal Instruments to reduce <hi>Monsieur</hi> to Reason; Let us not grudge the expence, nor murmur at what we have suffered to accomplish these great and gal<g ref="char:EOLhyphen"/>lant Ends; a few years of Peace will produce a mighty plenty amongst us, and heal the wounds the War has given. What an Immortal Honour is it to our Name
+<pb n="31" facs="tcp:211287:17"/>and Nation that we have dar'd to undertake, and have al<g ref="char:EOLhyphen"/>most perfected the Re-coyning of our Money, even during the heat, and in the eigth and ninth Year of a raging War; nay, and what is next to miraculous, have sur<g ref="char:EOLhyphen"/>mounted all those Difficulties that encountred us, not<g ref="char:EOLhyphen"/>withstanding we have had all along, and have yet in our very Bowels a Body of Scorpions, a Den of Dragons, a Troop of Tygers, that have bit and stung us, and which is worse, have impeded all our great and Glorious Inten<g ref="char:EOLhyphen"/>sions, (as much as in them lay) that cursed Faction of <hi>Jacks,</hi> (of which you are a Limb) has done us abun<g ref="char:EOLhyphen"/>dance of Mischief, they have been a heavy and dead weight in our Affairs, clogg'd our VVheels, betray'd our Councils, and assisted our (and their own) Enemies, to help on our mutual ruine.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Puh! you begin to rave.</p>
+            </sp>
+            <sp>
+               <speaker>VVill.</speaker>
+               <p>No, faith <hi>Jack,</hi> I don't. This is truth, and mat<g ref="char:EOLhyphen"/>ter of Fact, I charge on those Varlets; unworthy the sweet Air they breath in, and gentle Government they live under. Ingrateful VVretches to their Mother Earth that bare them, endeavouring to destroy her that gave them Life. VVorthless, unthinking Animals, Moles that VVork under ground, and would sain undermine our happy Establishment (the Envy and Admiration of the whole world) what will become of these Con<g ref="char:EOLhyphen"/>temptible Creatures upon a Peace? where will they hide their heads? whither sly for refuge? frontless and im<g ref="char:EOLhyphen"/>pudent as they are, shame and confusion will 'oretake 'em, they will be the scorn and pity of all Mankind, they ought to be hunted and baited as wild Beasts, treated as Mad-dogs, for if they had not been Mad, they'd never have opposed the true Interest of their Native Country.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>But prethee <hi>VVill,</hi> why so fierce and furious? be mild and moderate; methinks the approach of these Halcyon Daies you presage, should inspire your brest
+<pb n="32" facs="tcp:211287:18"/>with kinder and calmer Expressions; Peaceful Planets have hovered over our heads ever since we began our Dialogue; therefore pray banish <hi>Mars</hi> out of our company, else I shall suppose you are insluenced by that Fiery Spark (the VVorld Phaeton) VVe met Friends, and so let us part; besides it is late (near twelve) let's make an end of this Bottle and so move off.</p>
+            </sp>
+            <sp>
+               <speaker>VVill.</speaker>
+               <p>VVith all my heart. Come old Lad, here is a Bumper, a Closer to the Peace and Prosperity of old <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Faith I will pledge it cordially. You Rogue you, what a Succession of happy years are at hand! how pro<g ref="char:EOLhyphen"/>digiously this Nation will flourish, and how soon grow great again, especially if our Councils bend themselves to improve, encourage and extend our Commerce.</p>
+            </sp>
+            <sp>
+               <speaker>VVill.</speaker>
+               <p>Ay, we shall soon be a Great and Glorious Peo<g ref="char:EOLhyphen"/>ple, the VVonder of the World, the Pride of our Friends, the Terror of our Foes, the Darling of Heaven, and the Delight of each Other. I'le treat <hi>Jack,</hi> come Drawer take the Reckoning, there is a Shilling over for you, and so my dear Friend <hi>Jack</hi>
+               </p>
+            </sp>
+            <closer>
+               <salute>Adieu.</salute>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
